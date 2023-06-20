@@ -1,4 +1,4 @@
-# Conversor de moedas by:komgenski
+conversor de moedas basicas feito em javascript css e html
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/komgenski/pen/MWGamZm](https://codepen.io/komgenski/pen/MWGamZm).
 
+obs: pretendo adcionar mais moedas e mais funções
