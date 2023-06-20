@@ -1,0 +1,70 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 400px;
+  background-image: url("https://t3.ftcdn.net/jpg/03/00/54/64/360_F_300546467_jqb4miSKcrI6DrBbNQXOI9QcWtkDAusj.jpg");
+  background-color: #311b92;
+  background-size: 180vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+  background-color: #388e3c;
+  border-radius: 20px 40px 60px 80px;
+  opacity: 0.9;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+  background-color: #5c6bc0;
+  border-radius: 20px;
+  opacity: 0.9;
+}
+
+.page-logo {
+  width: 110px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+input {
+  margin: 12px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+label {
+  color: white;
+  background-color: #ef5350;
+  border-radius: 20px;
+  opacity: 0.9;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+h2 {
+  color: #ffffff;
+  font-size: 30px;
+  background-color: #004d40;
+  border-radius: 20px;
+  opacity: 0.9;
+}
